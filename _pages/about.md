@@ -9,7 +9,7 @@ redirect_from:
 
  # Overview
 Im a driven and collaborative social worker who demonstrates remarkable teamwork and computer skills. I excel in environments thst require a positive attitude along with strong technical abilities. I assist in enhancing team productivity and efficiency. Lastly, I desire to improve and become an even better benefit to those around me.
-# Expierience
+# Experience
 - Duration: June 2020- Current
 
 - Volunteer at turner Memorial Baptist church in prince georgia's county
